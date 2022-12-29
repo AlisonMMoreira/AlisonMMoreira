@@ -25,6 +25,6 @@ Cada uma com sua própria característica, no total foram 15 disciplinas técnic
 
 > Como estou aprendendo por conta própria tenho um grau de dificuldade em conseguir aprender, mas todos os dias, tento fazer alguns avanços, além de ter um caderno no qual anoto todas as coisas que acredito serem relevantes em determinada linguagem de programação.
 
-## Palavras finais 📆🎓🚀
+## Considerações finais 📆🎓🚀
 
 Então criei essa conta para colocar meus projetos e compartilhar um pouco da minha evolução e aprendizado! Então venha fazer parte desta jornada comigo, assim poderei motivar outras pessoas e ter uma motivação para sempre continuar aprendendo mais e mais!! 
