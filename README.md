@@ -30,11 +30,12 @@ Pretendo seguir na área de computação, mais especificamente nas áreas de pro
 
 # Alguns adendos
 
+### Alguns pontos positivos
 <ul>
     <li>Tento ser uma pessoa que possa além de passar confiança a outras pessoas, procuro ser um ombro amigo, além em que a pessoa possa se sentir acolhida.</li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Sempre que possível tento me colocar no lugar do outro, assim mminhas ações e feitos serão de menor risco.</li>
+    <li>Meus amigos me consideram umaa pessoa muio altruísta, as vezes eu me pergunto se isso é bom ou ruim, pois tenho receio de no final acabar sendo dependente da outra pessoa e não me valorizando o suficiente.</li>
+    <li>Se vejo alguma dificuldade procuro manter o foco e me concentro para resolver aquele problema de alguma forma clara e ágil.</li>
 </ul>
 ## Considerações finais 📆🎓🚀
 
