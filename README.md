@@ -28,6 +28,8 @@ Cada uma com sua própria característica, no total foram 15 disciplinas técnic
 #  Metas e Objetivos 💻👨🏽‍💻
 Pretendo seguir na área de computação, mais especificamente nas áreas de programação e segurança, mesmo tendo foco em programação. Pretendo smepre continuar estudando e me profissionalizando e melhorando na media do possível. Estou esperando abrir a inscrição do procecsso seletivo do Sisu para entrar no curso de <b><i>Análise e Desenvolvimento de Sistemas</i></b> na mesma instituição em que me formei técnico em <b><i>Redes de Computadores</i></b> e após isso quero cursar <b><i>Ciência da Computação</i></b> e desenvolver alguns projetos pessoais como uma I.A e uma distribuição Linux, além de outros projetos.
 
+# Alguns adendos
+
 ## Considerações finais 📆🎓🚀
 
 Então criei essa conta para colocar meus projetos e compartilhar um pouco da minha evolução e aprendizado! Então venha fazer parte desta jornada comigo, assim poderei motivar outras pessoas e ter uma motivação para sempre continuar aprendendo mais e mais!! 
