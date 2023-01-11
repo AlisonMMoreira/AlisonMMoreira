@@ -30,6 +30,12 @@ Pretendo seguir na área de computação, mais especificamente nas áreas de pro
 
 # Alguns adendos
 
+<ul>
+    <li>Tento ser uma pessoa que possa além de passar confiança a outras pessoas, procuro ser um ombro amigo, além em que a pessoa possa se sentir acolhida.</li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
 ## Considerações finais 📆🎓🚀
 
 Então criei essa conta para colocar meus projetos e compartilhar um pouco da minha evolução e aprendizado! Então venha fazer parte desta jornada comigo, assim poderei motivar outras pessoas e ter uma motivação para sempre continuar aprendendo mais e mais!! 
