@@ -41,6 +41,9 @@ Pretendo seguir na área de computação, mais especificamente nas áreas de pro
 ### Alguns pontos negativos
 <ul>
         <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
 </ul>
 ## Considerações finais 📆🎓🚀
 
