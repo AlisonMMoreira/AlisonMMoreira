@@ -38,6 +38,8 @@ Pretendo seguir na área de computação, mais especificamente nas áreas de pro
     <li>Se vejo alguma dificuldade procuro manter o foco e me concentro para resolver aquele problema de alguma forma clara e ágil.</li>
 </ul>
 
+### Alguns pontos negativos
+
 ## Considerações finais 📆🎓🚀
 
 Então criei essa conta para colocar meus projetos e compartilhar um pouco da minha evolução e aprendizado! Então venha fazer parte desta jornada comigo, assim poderei motivar outras pessoas e ter uma motivação para sempre continuar aprendendo mais e mais!! 
