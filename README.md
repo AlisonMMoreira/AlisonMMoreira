@@ -30,7 +30,7 @@ Pretendo seguir na área de computação, mais especificamente nas áreas de pro
 
 # Alguns adendos
 
-### Alguns pontos positivos
+### Alguns pontos positivos 
 <ul>
     <li>Tento ser uma pessoa que possa além de passar confiança a outras pessoas, procuro ser um ombro amigo, além em que a pessoa possa se sentir acolhida.</li>
     <li>Sempre que possível tento me colocar no lugar do outro, assim mminhas ações e feitos serão de menor risco.</li>
@@ -40,7 +40,7 @@ Pretendo seguir na área de computação, mais especificamente nas áreas de pro
 
 ### Alguns pontos negativos
 <ul>
-        <li>Sou um pouco inseguro com algumas coisas que faço, sei das minhas dificuldades mas procuro sempre manter o pé no chão e deixar a insegurança da minha vida</li>
+        <li>Sou um pouco inseguro com algumas coisas que faço, sei das minhas dificuldades mas procuro sempre manter o pé no chão e deixar a insegurança ir embora</li>
         <li>Na questão emocional, quando estou com problemas eu evito contar para as outras pessoas, e acabo guardando todos os problemas sem compartilhar ou pedir ajuda</li>
         <li>Sou uma pessoa competitiva e as vezes eu acho que isso pode afetar um pouco a forma em que eu vejo as pessoas</li>
         <li>Sou uma pessoa que se distraí muito rápido, não sei se eu deveria procurar um médico para ver isso...</li>
