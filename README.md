@@ -1,3 +1,7 @@
+# Estátisticas
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisonmmoreira&show_icons=true&theme=transparent) 
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisonmmoreira&hide=javascript,html&theme=transparent)-->
+
 # Olá, meu nome é Alison Moreira!😉
 
 Olá, me chamo Alison Moreira, mas caso queira pode me chamar de Ali! Bom conheci o mundo da computação no ano de 2020 ao ingressar no ensino médio integrado com o técnico em Redes de Computadores pelo IFSP campus Catanduva, como você pode perceber comecei meus estudos juntamente com o início da pandemia, então por conta disso tive várias dificuldades no período da pandemia, pois não tinha os equipamentos adequados para participar das aulas da disciplina técnica, mas mesmo assim, mantive a cabeça erguida e tentei ser o melhor que eu conseguia, e acabei gostando de várias áreas que tenho um certo carinho. E são elas: <br>
