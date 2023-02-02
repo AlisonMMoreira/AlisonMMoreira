@@ -1,6 +1,8 @@
 # Algumas informações
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisonmmoreira&show_icons=true&theme=transparent) 
 
+### Tecnologias que uso
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Ali-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ali-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
