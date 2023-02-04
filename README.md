@@ -23,7 +23,7 @@ Olá, me chamo Alison Moreira, mas caso queira pode me chamar de Ali! Bom conhec
         <li>Administração de Sistemas Operacionais - (Linux)</li>
 </ol>
 <br>
-Durante o curso eu tive outras disciplinas, na qual eu tive um certo carinho por algumas delas, pretendo sempre continuar seguindo e tentando me aprofundar e entender mmelhor nessas áreas.
+Durante o curso eu tive outras disciplinas, na qual eu tive um certo carinho por algumas delas, pretendo sempre continuar seguindo e tentando me aprofundar e entender melhor nessas áreas.
 
 # Quais foram algumas coisas aprendidas durante o curso? 📒🤔
 
