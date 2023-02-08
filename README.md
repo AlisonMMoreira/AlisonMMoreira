@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Code&size=32&duration=2800&pause=2000&color=c9d1d9&center=true&vCenter=true&width=940&lines=Oi%2C+Meu +nome+é+Alison!+Bem-vindo(a)+ao+meu+Perfil!" align="middle" alt="Oi, Meu nome é Alison e seja bem-vindo ao meu perfil! animated typed out" width="100%"/>
+
 # Algumas informações
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisonmmoreira&show_icons=true&theme=transparent) 
 
@@ -12,7 +14,7 @@
   <img align="center" alt="Ali-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<hr>
+
 
 # Olá, meu nome é Alison Moreira!😉
 
