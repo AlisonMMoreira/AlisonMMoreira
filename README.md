@@ -1,5 +1,5 @@
 # Algumas informações
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisonmmoreira&show_icons=true&theme=transparent) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisonmmoreira&show_icons=true&theme=transparent&all_time) 
 
 ### Tecnologias que uso
 <div style="display: inline_block"><br>
@@ -12,16 +12,18 @@
   <img align="center" alt="Ali-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
+### Canais de comunicação
+
 
 
 # Olá, meu nome é Alison Moreira!😉
 
 Olá, me chamo Alison Moreira, mas caso queira pode me chamar de Ali! Bom conheci o mundo da computação no ano de 2020 ao ingressar no ensino médio integrado com o técnico em Redes de Computadores pelo IFSP campus Catanduva, como você pode perceber comecei meus estudos juntamente com o início da pandemia, então por conta disso tive várias dificuldades no período da pandemia, pois não tinha os equipamentos adequados para participar das aulas da disciplina técnica, mas mesmo assim, mantive a cabeça erguida e tentei ser o melhor que eu conseguia, e acabei gostando de várias áreas que tenho um certo carinho. E são elas: <br>
 <ol>
-        <li>Programação Web</li>
+        <li>Programação Web🗺</li>
         <li>Gestão e Segurança da Informação</li>
         <li>Desenvolvimento de projetos</li>
-        <li>Administração de Sistemas Operacionais - (Linux)</li>
+        <li>Administração de Sistemas Operacionais - (Linux)💻🖥</li>
 </ol>
 <br>
 Durante o curso eu tive outras disciplinas, na qual eu tive um certo carinho por algumas delas, pretendo sempre continuar seguindo e tentando me aprofundar e entender melhor nessas áreas.
