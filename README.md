@@ -22,7 +22,7 @@ Olá, me chamo Alison Moreira, mas caso queira pode me chamar de Ali! Bom conhec
 <ol>
         <li>Programação Web🗺</li>
         <li>Gestão e Segurança da Informação</li>
-        <li>Desenvolvimento de projetos</li>
+        <li>Desenvolvimento de projetos👨🏽‍💻</li>
         <li>Administração de Sistemas Operacionais - (Linux)💻🖥</li>
 </ol>
 <br>
