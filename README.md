@@ -59,7 +59,7 @@ Cada uma com sua própria característica, no total foram 15 disciplinas técnic
 > Como estou aprendendo por conta própria tenho um grau de dificuldade em conseguir aprender, mas todos os dias, tento fazer alguns avanços, além de ter um caderno no qual anoto todas as coisas que acredito serem relevantes em determinada linguagem de programação.
 
 #  Metas e Objetivos 💻👨🏽‍💻
-Pretendo seguir na área de computação, mais especificamente nas áreas de programação e segurança, mesmo tendo foco em programação. Pretendo sempre continuar estudando e me profissionalizando e melhorando na media do possível. Comecei a cursar <b><i>Análise e Desenvolvimento de Sistemas</i></b> na mesma instituição em que me formei técnico em <b><i>Redes de Computadores</i></b> e após isso quero cursar <b><i>Ciência da Computação</i></b> e desenvolver alguns projetos pessoais como uma I.A e uma distribuição Linux, além de outros projetos.
+Pretendo seguir na área de computação, mais especificamente nas áreas de programação e segurança, mesmo tendo foco em programação. Pretendo sempre continuar estudando e me profissionalizando e melhorando na media do possível. Neste ano de 2023 comecei a cursar <b><i>Análise e Desenvolvimento de Sistemas</i></b> na mesma instituição em que me formei técnico em <b><i>Redes de Computadores</i></b> e após isso quero cursar <b><i>Ciência da Computação</i></b> e desenvolver alguns projetos pessoais como uma I.A e uma distribuição Linux, além de outros projetos.
 
 # Alguns adendos
 
