@@ -62,7 +62,7 @@ Durante o curso eu tive outras disciplinas, na qual eu tive um certo carinho por
       <li>Infraestrutura de Redes</li>
 </ul>
 
-Cada uma com sua própria característica, no total foram 15 disciplinas técnicas diferentes, o curso em si é focado em infraestrutura, mas acabei gostando da área de programação, mesmo sendo pouca abordada no curso, aprendi a usar `HTML`, `CSS`, um pouco de `JavaScript`, `SQL`, já fiz alguns projetos usando `PHP` estou aprendendo a programar em `C#`. 
+Cada uma com sua própria característica, no total foram 15 disciplinas técnicas diferentes com foco na área da computação, o curso em si é focado em infraestrutura, mas acabei gostando da área de programação, mesmo sendo pouca abordada no curso, aprendi a usar `HTML`, `CSS`, um pouco de `JavaScript`, `SQL`, já fiz alguns projetos usando `PHP` estou aprendendo a programar em `C#`. 
 
 > Como estou aprendendo por conta própria tenho um grau de dificuldade em conseguir aprender, mas todos os dias, tento fazer alguns avanços, além de ter um caderno no qual anoto todas as coisas que acredito serem relevantes em determinada linguagem de programação.
 
