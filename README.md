@@ -2,12 +2,11 @@
 
 
 # Algumas informações
-<div> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisonmmoreira&show_icons=true&theme=transparent)
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisonmmoreira&show_icons=true&theme=transparent&all_time)
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonmmoreira&layout=compact&langs_count=16&theme=transparent"/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisonmmoreira&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Tecnologias que uso
 <div style="display: inline_block"><br>
